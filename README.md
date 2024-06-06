@@ -1,5 +1,8 @@
 # DevOps
 
+![aws](https://github.com/pierrejean509/DevOps/assets/154103550/5cba7fef-e9ca-43c7-86a4-dc98e18a15e9)
+
+
 # AWS Infrastructure as Code with Terraform
 
 This repository contains Terraform code to set up a basic infrastructure on AWS. The components included in this setup are:
